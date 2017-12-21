@@ -210,10 +210,10 @@ holder.*
 
 .. icon-marker
 
-.. |macos| image:: https://prince.lcsb.uni.lu/jenkins/userContent/apple.png
-   :height: 20px
-   :width: 20px
-   :alt: macos
+.. |macos| raw:: html
+
+    <img src="https://prince.lcsb.uni.lu/jenkins/userContent/apple.png" height="20px" width="20px" alt="macos">
+
 
 .. |linux| image:: https://prince.lcsb.uni.lu/jenkins/userContent/linux.png
    :height: 20px
